@@ -27,3 +27,4 @@ This program is written to read a one image at a time, if you need to play with 
 More on Objetc-Detection with OpenCV can found in below links <br><br>
 https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/ 
 
+Output :
